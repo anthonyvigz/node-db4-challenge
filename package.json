@@ -1,0 +1,19 @@
+{
+  "name": "nodedb4",
+  "version": "1.0.0",
+  "description": "index",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "anthony vigliotta",
+  "license": "ISC"
+}
